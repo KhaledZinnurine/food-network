@@ -81,3 +81,10 @@ img{
     width: 33.33%;
     padding-left:100px;
 }
+.footer-details{
+ background-color: rgb(12, 12, 12);
+ text-align: center;
+ color: rgb(151, 133, 133);
+ height:150px;
+ border: 0;
+}
